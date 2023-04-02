@@ -1,4 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 
 int integer1 = 2147483647;
@@ -26,6 +25,5 @@ decimal decimal1 = 10.5M;
 
 var variable1 = 10; // integer
 variable1 = 'A'; // 65
-
 
 Console.ReadLine();
