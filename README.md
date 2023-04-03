@@ -5,3 +5,7 @@
 [2 - Methods](https://github.com/zeynepakkaya-1/C-Sharp-Notes/blob/main/Methods.cs)
 
 [3 - Arrays](https://github.com/zeynepakkaya-1/C-Sharp-Notes/blob/main/Arrays.cs)
+
+***
+
+###### Examples
