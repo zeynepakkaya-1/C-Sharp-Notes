@@ -8,6 +8,9 @@
 
 [4 - Strings](https://github.com/zeynepakkaya-1/C-Sharp-Notes/blob/main/Strings.cs)
 
+[5 - Classes]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[5.1 - Encapsulation](https://github.com/zeynepakkaya-1/C-Sharp-Notes/blob/main/Classes/ClassesEncapsulation.cs)
+
 ***
 
 ###### Examples
