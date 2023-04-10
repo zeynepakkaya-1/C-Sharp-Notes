@@ -13,3 +13,4 @@
 ###### Examples
 
 - [IsPrimeNumber function](https://github.com/zeynepakkaya-1/C-Sharp-Notes/blob/main/Examples/PrimeNumber.cs)
+- [CheckerBoard](https://github.com/zeynepakkaya-1/C-Sharp-Notes/blob/main/Examples/CheckerBoard.cs)
