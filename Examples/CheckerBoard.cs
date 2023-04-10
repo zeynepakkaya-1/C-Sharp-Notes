@@ -36,7 +36,6 @@ namespace DamaTahtası
                     }
                     left = 0;
                     top += 50;
-                    
                 }
             }
         }
