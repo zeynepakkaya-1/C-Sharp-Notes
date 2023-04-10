@@ -6,6 +6,8 @@
 
 [3 - Arrays](https://github.com/zeynepakkaya-1/C-Sharp-Notes/blob/main/Arrays.cs)
 
+[4 - Strings](https://github.com/zeynepakkaya-1/C-Sharp-Notes/blob/main/Strings.cs)
+
 ***
 
 ###### Examples
